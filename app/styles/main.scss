@@ -3,10 +3,12 @@
 @import "foundation/scss/foundation.scss";
 @import "foundation-icons/foundation_icons_general/sass/general_foundicons.scss";
 @import "foundation-icons/foundation_icons_social/sass/social_foundicons.scss";
+
 // endbower
 
-.top-bar{
-  .motto{padding: 0 15px;
+.top-bar {
+  .motto {
+    padding: 0 15px;
     line-height: 45px;
     background: #333333;
     display: block;
@@ -15,29 +17,29 @@
     padding-left: 15px;
     font-size: .9rem;
     font-weight: normal;
-    text-transform: none;}
-  .name{
-    h1{
-      font-size:1.7rem;
-      .chiseled{
+    text-transform: none;
+  }
+  .name {
+    h1 {
+      font-size: 1.7rem;
+      .chiseled {
         font-family: 'Droid Sans', sans-serif;
-        font-weight:bold;
+        font-weight: bold;
         color: transparent;
-        text-stroke: 2px rgba(0,0,0,0.2); /* Text stroke */
+        text-stroke: 2px rgba(0, 0, 0, 0.2); /* Text stroke */
         text-stroke: 0;
         color: transparent;
-        background-color: rgba(255,255,255,0.8);
+        background-color: rgba(255, 255, 255, 0.8);
         -webkit-background-clip: text;
-        text-shadow: rgba(32,32,32,0.5) 0 5px 6px, rgba(255,255,255,0.2) 1px 3px 3px;
+        text-shadow: rgba(32, 32, 32, 0.5) 0 5px 6px, rgba(255, 255, 255, 0.2) 1px 3px 3px;
       }
     }
 
   }
 }
 
-
-@media only screen and (min-width: 40.063em){
-  .top-bar{
+@media only screen and (min-width: 40.063em) {
+  .top-bar {
     background: rgb(51, 51, 51);
   }
 }
