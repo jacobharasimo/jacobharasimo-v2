@@ -14,13 +14,13 @@
     <link rel="stylesheet" href="styles/main.css">
     <!-- endbuild -->
 </head>
-<body ng-app="duckDuckGoApp">
+<body ng-app="jacobharasimoApp">
 <!--[if lt IE 7]>
 <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
     your browser</a> to improve your experience.</p>
 <![endif]-->
 <header>
-    <nav class="top-bar" data-topbar>
+    <nav class="top-bar" data-topbar top-nav>
         <ul class="title-area">
             <li class="name">
                 <h1><a href="#"><span class="chiseled">Jacob Harasimo</span></a></h1>
@@ -31,12 +31,9 @@
         <section class="top-bar-section">
             <!-- Right Nav Section -->
             <ul class="right">
-                <li class="active"><a href="#">My Projects</a></li>
-                <li><a href="#">My Clients</a></li>
-                <li><a href="#">My Languages</a></li>
-                <li><a href="#">My History</a></li>
-                <li><a href="#">My CV</a></li>
-                <li></li>
+                <li ng-class="{active: topNavigation.activeID==$index}" ng-cloak ng-repeat="nav in topNavigation.Items">
+                    <a ng-href="#{{nav.Link}}" ng-click="navigate($index)">{{nav.Title}}</a>
+                </li>
             </ul>
             <!-- Left Nav Section -->
             <ul class="left">
@@ -51,6 +48,7 @@
     </div>
 </header>
 <!-- Add your site or application content here -->
+<div id="contentBody" ng-view="" class="slide-animation"></div>
 
 <!-- Google Analytics: change UA-XXXXX-X to be your site's ID -->
 <script>
@@ -96,8 +94,12 @@
 
 <!-- build:js({.tmp,app}) scripts/scripts.js -->
 <script src="scripts/app.js"></script>
-<script src="scripts/controllers/main.js"></script>
-<script src="scripts/controllers/about.js"></script>
+<script src="scripts/controllers/MyWork.js"></script>
+<script src="scripts/controllers/MyClients.js"></script>
+<script src="scripts/controllers/MyHistory.js"></script>
+<script src="scripts/controllers/MyLanguages.js"></script>
+<script src="scripts/controllers/Project.js"></script>
+<script src="scripts/directives/topNav.js"></script>
 <!-- endbuild -->
 </body>
 </html>

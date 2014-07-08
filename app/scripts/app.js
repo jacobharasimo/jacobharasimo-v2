@@ -1,36 +1,48 @@
 'use strict';
-
 /**
  * @ngdoc overview
- * @name duckDuckGoApp
+ * @name jacobharasimoApp
  * @description
- * # duckDuckGoApp
+ * # jacobharasimoApp
  *
  * Main module of the application.
  */
 angular
-  .module('duckDuckGoApp', [
-    'ngAnimate',
-    'ngCookies',
-    'ngResource',
-    'ngRoute',
-    'ngSanitize',
-    'ngTouch'
-  ])
-  .run(function(){
-    $(document).foundation();
-  })
-  .config(function ($routeProvider) {
-    $routeProvider
-      .when('/', {
-        templateUrl: 'views/main.html',
-        controller: 'MainCtrl'
-      })
-      .when('/about', {
-        templateUrl: 'views/about.html',
-        controller: 'AboutCtrl'
-      })
-      .otherwise({
-        redirectTo: '/'
-      });
-  });
+    .module('jacobharasimoApp', [
+        'ngAnimate',
+        'ngCookies',
+        'ngResource',
+        'ngRoute',
+        'ngSanitize',
+        'ngTouch'
+    ])
+    .config(function ($routeProvider) {
+        $routeProvider
+            .when('/', {
+                templateUrl: 'views/myWork.html',
+                controller: 'MyWorkCtrl'
+            })
+            .when('/MyClients', {
+                templateUrl: 'views/myClients.html',
+                controller: 'MyClientsCtrl'
+            })
+            .when('/MyWork', {
+                templateUrl: 'views/myWork.html',
+                controller: 'MyWorkCtrl'
+            })
+            .when('/MyWork/:id', {
+                templateUrl: 'views/project.html',
+                controller: 'ProjectCtrl'
+            })
+            .when('/MyLanguages', {
+                templateUrl: 'views/myLanguages.html',
+                controller: 'MyLanguagesCtrl'
+            })
+            .when('/MyHistory', {
+                templateUrl: 'views/myHistory.html',
+                controller: 'MyHistoryCtrl'
+            })
+            .otherwise({
+                redirectTo: '/'
+            });
+    });
