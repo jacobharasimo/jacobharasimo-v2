@@ -1,0 +1,28 @@
+// bower:scss
+@import "foundation/scss/foundation.scss";
+@import "foundation-icons/foundation_icons_general/sass/general_foundicons.scss";
+@import "foundation-icons/foundation_icons_social/sass/social_foundicons.scss";
+// endbower
+
+.top-bar{
+  .name{
+    h1{
+      font-size:2rem;
+      .chiseled{
+        color: #222;
+        text-shadow:0px 1px 1px #4d4d4d;
+      }
+    }
+  }
+}
+
+
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+
+
+}
