@@ -14,7 +14,7 @@ angular.module('jacobharasimoApp')
             replace: true,
             scope:{projectTile:'='},
             controller: function Controller($scope) {
-                console.log ($scope.projectTile);
+
             },
             link: function postLink(scope, element, attrs) {
 

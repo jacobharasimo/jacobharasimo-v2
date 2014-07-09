@@ -14,7 +14,7 @@ angular.module('jacobharasimoApp')
             replace: true,
             scope:{searchTerm:'=searchBar'},
             controller: function Controller($scope) {
-                console.log($scope.searchTerm)
+
             },
             link: function postLink(scope, element, attrs) {
 
