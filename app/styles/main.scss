@@ -4,11 +4,37 @@
 @import "foundation/scss/foundation.scss";
 @import "foundation-icons/foundation_icons_general/sass/general_foundicons.scss";
 @import "foundation-icons/foundation_icons_social/sass/social_foundicons.scss";
+
 // endbower
 body {
   overflow-y: scroll;
 }
-header{margin-bottom:1em;}
+
+header {
+  margin-bottom: 1em;
+}
+
+a.block {
+  display: block;
+}
+
+h5 {
+  &.project-title {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+
+.panel {
+  &.project-tile {
+    box-shadow: #333 3px 4px 9px;
+    margin-bottom:0;
+    padding: 0.6rem;
+    text-align: center;
+  }
+}
 
 .top-bar {
   .motto {

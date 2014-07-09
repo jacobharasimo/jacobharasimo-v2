@@ -9,29 +9,12 @@
         "LargeImage": "images/projects/iso_acoustics.png",
         "SiteURL": "",
         "Technologies": [
-            {
-                "Name": "Rest/Web API"
-            },
-            {
-                "Name": "Foundation 5"
-            },
-            {
-                "Name": "Responsive"
-
-            },
-            {
-                "Name": "jQuery"
-
-            },
-            {
-                "Name": "SASS"
-
-            },
-            {
-                "Name": "C#"
-
-            }
-
+            "Rest/Web API",
+            "Foundation 5",
+            "Responsive",
+            "jQuery",
+            "SASS",
+            "C#"
         ]
     },
 	{
@@ -44,20 +27,10 @@
         "LargeImage": "images/projects/munk_foundation.png",
         "SiteURL": "",
         "Technologies": [
-            {
-                "Name": "Wordpress"
-
-            },
-            {
-                "Name": "Foundation 5"
-
-            },
-            {
-                "Name": "SASS"
-            },
-            {
-                "Name": "Responsive"
-            }
+            "Wordpress",
+            "Foundation 5",
+            "SASS",
+            "Responsive"
         ]
     },
 	{
@@ -70,30 +43,12 @@
         "LargeImage": "images/projects/sico_paints.png",
         "SiteURL": "http://www.sico.ca/en-CA/Home.aspx",
         "Technologies": [
-            {
-                "Name": "Kentico CMS"
-
-            },
-            {
-                "Name": "HTML5"
-
-            },
-            {
-                "Name": "CSS3"
-
-            },
-            {
-                "Name": "Foundation 4"
-
-            },
-            {
-                "Name": "Responsive"
-
-            },
-            {
-                "Name": "Silverlight"
-
-            }
+            "Kentico CMS",
+            "HTML5",
+            "CSS3",
+            "Foundation 4",
+            "Responsive",
+            "Silverlight"
         ]
     },
     {
@@ -106,22 +61,10 @@
         "LargeImage": "images/projects/sonyRewards.png",
         "SiteURL": "http://www.sonyrewards.com/en/home/welcome",
         "Technologies": [
-            {
-                "Name": "MVC4"
-
-            },
-            {
-                "Name": "HTML"
-
-            },
-            {
-                "Name": "CSS3"
-
-            },
-            {
-                "Name": "jQuery"
-
-            }
+            "MVC4",
+            "HTML",
+            "CSS3",
+            "jQuery"
         ]
     },
     {
@@ -134,14 +77,8 @@
         "ImageURL": "images/projects/sonyEmail_small.png",
         "SiteURL": "",
         "Technologies": [
-            {
-                "Name": "HTML"
-
-            },
-            {
-                "Name": "Silverpop"
-
-            }
+            "HTML",
+            "Silverpop"
         ]
     },
     {
@@ -154,22 +91,10 @@
         "ImageURL": "images/projects/viagra_ca_small.png",
         "SiteURL": "http://www.viagra.ca/en/",
         "Technologies": [
-            {
-                "Name": "Flash"
-
-            },
-            {
-                "Name": "HTML"
-
-            },
-            {
-                "Name": "CSS"
-
-            },
-            {
-                "Name": "jQuery"
-
-            }
+            "Flash",
+            "HTML",
+            "CSS",
+            "jQuery"
         ]
     },
     {
@@ -182,22 +107,10 @@
         "ImageURL": "images/projects/centrum_ca_small.png",
         "SiteURL": "http://www.centrum.ca/",
         "Technologies": [
-            {
-                "Name": "Drupal"
-
-            },
-            {
-                "Name": "HTML"
-
-            },
-            {
-                "Name": "CSS3"
-
-            },
-            {
-                "Name": "jQuery"
-
-            }
+            "Drupal",
+            "HTML",
+            "CSS3",
+            "jQuery"
         ]
     },
     {
@@ -210,26 +123,11 @@
         "ImageURL": "images/projects/sswa_small.png",
         "SiteURL": "https://startsomethingwithalesse.ca/en/home/",
         "Technologies": [
-            {
-                "Name": "HTML"
-
-            },
-            {
-                "Name": "Mobile Compatible"
-
-            },
-            {
-                "Name": "CSS3"
-
-            },
-            {
-                "Name": "jQuery"
-
-            },
-            {
-                "Name": "Facebook API"
-
-            }
+            "HTML",
+            "Mobile Compatible",
+            "CSS3",
+            "jQuery",
+            "Facebook API"
         ]
     },
     {
@@ -242,22 +140,10 @@
         "ImageURL": "images/projects/ArtOfYogaStudio_small.png",
         "SiteURL": "http://www.artofyogastudio.com/",
         "Technologies": [
-            {
-                "Name": "HTML"
-
-            },
-            {
-                "Name": "Wordpress"
-
-            },
-            {
-                "Name": "CSS3"
-
-            },
-            {
-                "Name": "jQuery"
-
-            }
+            "HTML",
+            "Wordpress",
+            "CSS3",
+            "jQuery"
         ]
     },
     {
@@ -270,26 +156,11 @@
         "ImageURL": "images/projects/rogers_small.png",
         "SiteURL": "",
         "Technologies": [
-            {
-                "Name": ".NET"
-
-            },
-            {
-                "Name": "HTML"
-
-            },
-            {
-                "Name": "CSS3"
-
-            },
-            {
-                "Name": "jQuery"
-
-            },
-            {
-                "Name": "Javascript"
-
-            }
+            ".NET",
+            "HTML",
+            "CSS3",
+            "jQuery",
+            "Javascript"
         ]
     },
     {
@@ -302,35 +173,13 @@
         "ImageURL": "images/projects/biogen_2_small.png",
         "SiteURL": "",
         "Technologies": [
-            {
-                "Name": "MVC4"
-
-            },
-            {
-                "Name": "AngularJS"
-
-            },
-            {
-                "Name": "HTML5"
-
-            },
-            {
-                "Name": "Responsive"
-
-            },
-            {
-                "Name": "CSS3"
-
-            },
-            {
-                "Name": "AJAX"
-
-            },
-            {
-                "Name": "jQuery"
-
-
-            }
+            "MVC4",
+            "AngularJS",
+            "HTML5",
+            "Responsive",
+            "CSS3",
+            "AJAX",
+            "jQuery"
         ]
     },
     {
@@ -343,30 +192,12 @@
         "ImageURL": "images/projects/ur_channel_small.png",
         "SiteURL": "http://ur-channel.com/",
         "Technologies": [
-            {
-                "Name": "HTML5"
-
-            },
-            {
-                "Name": ".NET"
-
-            },
-            {
-                "Name": "jQuery"
-
-            },
-            {
-                "Name": "CSS3"
-
-            },
-            {
-                "Name": "Ajax"
-
-            },
-            {
-                "Name": "Flash"
-
-            }
+            "HTML5",
+            ".NET",
+            "jQuery",
+            "CSS3",
+            "Ajax",
+            "Flash"
         ]
     },
     {
@@ -379,22 +210,10 @@
         "ImageURL": "images/projects/iCONNECT_small.png",
         "SiteURL": "http://www.klick.com/iConnect/",
         "Technologies": [
-            {
-                "Name": "HTML5"
-
-            },
-            {
-                "Name": "jQuery"
-
-            },
-            {
-                "Name": "CSS3"
-
-            },
-            {
-                "Name": "Video"
-
-            }
+            "HTML5",
+            "jQuery",
+            "CSS3",
+            "Video"
         ]
     },
     {
@@ -407,22 +226,10 @@
         "ImageURL": "images/projects/rsa_ca_small.png",
         "SiteURL": "https://play.google.com/store/apps/details?id=com.app.rsa.mobile.android2&hl=en",
         "Technologies": [
-            {
-                "Name": "HTML5"
-
-            },
-            {
-                "Name": "jQuery Mobile"
-
-            },
-            {
-                "Name": "CSS3"
-
-            },
-            {
-                "Name": "PhoneGap"
-
-            }
+            "HTML5",
+            "jQuery Mobile",
+            "CSS3",
+            "PhoneGap"
         ]
     },
     {
@@ -435,22 +242,10 @@
         "ImageURL": "images/projects/loopbonding_small.png",
         "SiteURL": "",
         "Technologies": [
-            {
-                "Name": "HTML5"
-
-            },
-            {
-                "Name": "jQuery Mobile"
-
-            },
-            {
-                "Name": "AngularJS"
-
-            },
-            {
-                "Name": "PhoneGap"
-
-            }
+            "HTML5",
+            "jQuery Mobile",
+            "AngularJS",
+            "PhoneGap"
         ]
     },
     {
@@ -463,26 +258,11 @@
         "ImageURL": "images/projects/amitiza_desktop_small.png",
         "SiteURL": "http://www.amitiza.com/",
         "Technologies": [
-            {
-                "Name": "HTML"
-
-            },
-            {
-                "Name": "Mobile Responsive"
-
-            },
-            {
-                "Name": "jQuery"
-
-            },
-            {
-                "Name": "CSS"
-
-            },
-            {
-                "Name": ".NET"
-
-            }
+            "HTML",
+            "Mobile Responsive",
+            "jQuery",
+            "CSS",
+            ".NET"
         ]
     },
     {
@@ -495,26 +275,11 @@
         "ImageURL": "images/projects/amitiza_mobile_small.png",
         "SiteURL": "http://www.amitiza.com/",
         "Technologies": [
-            {
-                "Name": "HTML5"
-
-            },
-            {
-                "Name": "jQuery"
-
-            },
-            {
-                "Name": "CSS3"
-
-            },
-            {
-                "Name": ".NET"
-
-            },
-            {
-                "Name": "Foundation 3"
-
-            }
+            "HTML5",
+            "jQuery",
+            "CSS3",
+            ".NET",
+            "Foundation 3"
         ]
     },
     {
@@ -527,22 +292,10 @@
         "ImageURL": "images/projects/turn_to_help_small.png",
         "SiteURL": "http://turntohelp.com/",
         "Technologies": [
-            {
-                "Name": "HTML5"
-
-            },
-            {
-                "Name": "jQuery"
-
-            },
-            {
-                "Name": "CSS3"
-
-            },
-            {
-                "Name": ".NET"
-
-            }
+            "HTML5",
+            "jQuery",
+            "CSS3",
+            ".NET"
         ]
     },
     {
@@ -555,22 +308,10 @@
         "ImageURL": "images/projects/mmm_small.png",
         "SiteURL": "http://mymultiplemyeloma.com/",
         "Technologies": [
-            {
-                "Name": "HTML5"
-
-            },
-            {
-                "Name": "jQuery"
-
-            },
-            {
-                "Name": "CSS3"
-
-            },
-            {
-                "Name": "Wordpress"
-
-            }
+            "HTML5",
+            "jQuery",
+            "CSS3",
+            "Wordpress"
         ]
     },
     {
@@ -583,22 +324,10 @@
         "ImageURL": "images/projects/VELCADE_small.png",
         "SiteURL": "http://www.velcade.com/",
         "Technologies": [
-            {
-                "Name": "HTML5"
-
-            },
-            {
-                "Name": "jQuery"
-
-            },
-            {
-                "Name": "CSS3"
-
-            },
-            {
-                "Name": "Wordpress"
-
-            }
+            "HTML5",
+            "jQuery",
+            "CSS3",
+            "Wordpress"
         ]
     },
     {
@@ -611,26 +340,11 @@
         "ImageURL": "images/projects/synapse_small.png",
         "SiteURL": "http://www.nngroup.com/reports/intranet-design-annual/",
         "Technologies": [
-            {
-                "Name": "HTML5"
-
-            },
-            {
-                "Name": "jQuery"
-
-            },
-            {
-                "Name": "CSS3"
-
-            },
-            {
-                "Name": ".NET"
-
-            },
-            {
-                "Name": "AJAX"
-
-            }
+            "HTML5",
+            "jQuery",
+            "CSS3",
+            ".NET",
+            "AJAX"
         ]
     }
 ]

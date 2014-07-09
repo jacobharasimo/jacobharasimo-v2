@@ -10,10 +10,21 @@
             create the end product.</p>
     </div>
 </div>
-<div search-bar="searchTerm"></div>
 <div class="row">
-    <div class="columns small-12">
-        <ul class="small-block-grid-2 large-block-grid-4">
+    <div class="columns small-3">
+        <div class="panel filter-list">
+            <h3>Filter Projects</h3>
+            <hr/>
+            <ul class="no-bullet">
+                <li ng-repeat="tech in Technologies | orderBy:'Name'">
+                    <input id="checkbox{{$index}}" type="checkbox">
+                    <label for="checkbox{{$index}}">{{tech.Name}}</label>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="columns small-9">
+        <ul class="small-block-grid-2 large-block-grid-3">
             <li ng-cloak ng-repeat="project in Projects | filter: {Technologies:searchTerm}">
                <div project-tile="project"></div>
             </li>
