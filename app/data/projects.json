@@ -1,0 +1,636 @@
+[
+	{
+        "Name": "IsoAcoustics Calculator",
+        "Description": "Involved as a Lead Front End Web Developer tasked with createing a multi-path step based Calculator for audio professionals to select/create custom vibration isolationg stands based on client provided workflow/spreadsheeets.",
+        "Role": "Lead Web Developer",
+        "Agency":"Ecentricarts",
+        "Client":"IsoAcoustics",
+        "ImageURL": "images/projects/iso_acoustics_small.png",
+        "LargeImage": "images/projects/iso_acoustics.png",
+        "SiteURL": "",
+        "Technologies": [
+            {
+                "Name": "Rest/Web API"
+            },
+            {
+                "Name": "Foundation 5"
+            },
+            {
+                "Name": "Responsive"
+
+            },
+            {
+                "Name": "jQuery"
+
+            },
+            {
+                "Name": "SASS"
+
+            },
+            {
+                "Name": "C#"
+
+            }
+
+        ]
+    },
+	{
+        "Name": "Munk Foundation",
+        "Description": "Involved as a Lead Front End Web Developer to create a responsive site for a global charitable originzation that is easily editable in Wordpress CMS.",
+        "Role": "Lead Web Developer",
+        "Agency":"Ecentricarts",
+        "Client":"Munk Foundation",
+        "ImageURL": "images/projects/munk_foundation_small.png",
+        "LargeImage": "images/projects/munk_foundation.png",
+        "SiteURL": "",
+        "Technologies": [
+            {
+                "Name": "Wordpress"
+
+            },
+            {
+                "Name": "Foundation 5"
+
+            },
+            {
+                "Name": "SASS"
+            },
+            {
+                "Name": "Responsive"
+            }
+        ]
+    },
+	{
+        "Name": "Sico Paints",
+        "Description": "Involved as a Front End Web Developer to create a rich responsive modern site including a ~2,000 element color selector.",
+        "Role": "Web Developer",
+        "Agency":"Ecentricarts",
+        "Client":"Sico Paints",
+        "ImageURL": "images/projects/sico_paints_small.png",
+        "LargeImage": "images/projects/sico_paints.png",
+        "SiteURL": "http://www.sico.ca/en-CA/Home.aspx",
+        "Technologies": [
+            {
+                "Name": "Kentico CMS"
+
+            },
+            {
+                "Name": "HTML5"
+
+            },
+            {
+                "Name": "CSS3"
+
+            },
+            {
+                "Name": "Foundation 4"
+
+            },
+            {
+                "Name": "Responsive"
+
+            },
+            {
+                "Name": "Silverlight"
+
+            }
+        ]
+    },
+    {
+        "Name": "Sony Rewards",
+        "Description": "Involved as a Front End Web Developer to do content updates and page/section creation. Lead developer for upcoming Playstation Account Linking portal.",
+        "Role": "Web Developer",
+        "Agency":"Klick Health",
+        "Client":"Sony Corporation  of America",
+        "ImageURL": "images/projects/sonyRewards_small.png",
+        "LargeImage": "images/projects/sonyRewards.png",
+        "SiteURL": "http://www.sonyrewards.com/en/home/welcome",
+        "Technologies": [
+            {
+                "Name": "MVC4"
+
+            },
+            {
+                "Name": "HTML"
+
+            },
+            {
+                "Name": "CSS3"
+
+            },
+            {
+                "Name": "jQuery"
+
+            }
+        ]
+    },
+    {
+        "Name": "Sony Insider Specials",
+        "Description": "Involved as a Front End Web Developer creating cross browser emails for IE7+ desktop devices and mobile.",
+        "Role": "Web Developer",
+        "Agency":"Klick Health",
+        "Client":"Sony Corporation  of America",
+        "LargeImage": "images/projects/sonyEmail.png",
+        "ImageURL": "images/projects/sonyEmail_small.png",
+        "SiteURL": "",
+        "Technologies": [
+            {
+                "Name": "HTML"
+
+            },
+            {
+                "Name": "Silverpop"
+
+            }
+        ]
+    },
+    {
+        "Name": "Viagra Canada",
+        "Description": "Involved as a Front End Web Developer to do content updates and javascript work for promotions.",
+        "Role": "Web Developer",
+        "Agency":"Klick Health",
+        "Client":"Pfizer",
+        "LargeImage": "images/projects/viagra_ca.png",
+        "ImageURL": "images/projects/viagra_ca_small.png",
+        "SiteURL": "http://www.viagra.ca/en/",
+        "Technologies": [
+            {
+                "Name": "Flash"
+
+            },
+            {
+                "Name": "HTML"
+
+            },
+            {
+                "Name": "CSS"
+
+            },
+            {
+                "Name": "jQuery"
+
+            }
+        ]
+    },
+    {
+        "Name": "Centrum Canada",
+        "Description": "Involved as a part of a web development team. Responsible for page creation, content updates and javascript debugging of widgets.",
+        "Role": "Web Developer",
+        "Agency":"Klick Health",
+        "Client":"Pfizer",
+        "LargeImage": "images/projects/centrum_ca.png",
+        "ImageURL": "images/projects/centrum_ca_small.png",
+        "SiteURL": "http://www.centrum.ca/",
+        "Technologies": [
+            {
+                "Name": "Drupal"
+
+            },
+            {
+                "Name": "HTML"
+
+            },
+            {
+                "Name": "CSS3"
+
+            },
+            {
+                "Name": "jQuery"
+
+            }
+        ]
+    },
+    {
+        "Name": "Start Something With Alesse",
+        "Description": "Involved as a Lead Front End Web Developer to create and maintain a multi-phased contest site with facebook integration.",
+        "Role": "Lead Web Developer",
+        "Agency":"Klick Health",
+        "Client":"Pfizer",
+        "LargeImage": "images/projects/sswa.png",
+        "ImageURL": "images/projects/sswa_small.png",
+        "SiteURL": "https://startsomethingwithalesse.ca/en/home/",
+        "Technologies": [
+            {
+                "Name": "HTML"
+
+            },
+            {
+                "Name": "Mobile Compatible"
+
+            },
+            {
+                "Name": "CSS3"
+
+            },
+            {
+                "Name": "jQuery"
+
+            },
+            {
+                "Name": "Facebook API"
+
+            }
+        ]
+    },
+    {
+        "Name": "Art Of Yoga Studio",
+        "Description": "Involved as a Front End Web Developer and designer to create a Wordpress portal and provide client training on how to provide updates.",
+        "Role": "Lead Web Developer/Designer",
+        "Agency":"None",
+        "Client":"Art Of Yoga Studio",
+        "LargeImage": "images/projects/ArtOfYogaStudio.png",
+        "ImageURL": "images/projects/ArtOfYogaStudio_small.png",
+        "SiteURL": "http://www.artofyogastudio.com/",
+        "Technologies": [
+            {
+                "Name": "HTML"
+
+            },
+            {
+                "Name": "Wordpress"
+
+            },
+            {
+                "Name": "CSS3"
+
+            },
+            {
+                "Name": "jQuery"
+
+            }
+        ]
+    },
+    {
+        "Name": "Rogers Pulse",
+        "Description": "Involved as a Lead Front End Web Developer on a team to upgrade an existing .NET site to web 2.0 standards as well as add many client request features. Rogesr Pulse in an internal Project management Portal.",
+        "Role": "Lead Web Developer",
+        "Agency":"Klick Health",
+        "Client":"Rogers Communications",
+        "LargeImage": "images/projects/rogers.png",
+        "ImageURL": "images/projects/rogers_small.png",
+        "SiteURL": "",
+        "Technologies": [
+            {
+                "Name": ".NET"
+
+            },
+            {
+                "Name": "HTML"
+
+            },
+            {
+                "Name": "CSS3"
+
+            },
+            {
+                "Name": "jQuery"
+
+            },
+            {
+                "Name": "Javascript"
+
+            }
+        ]
+    },
+    {
+        "Name": "Biogen Idec - The Hub",
+        "Description": "Involved as a Lead Front End Web Developer on a team creating a global file management system.",
+        "Role": "Lead Web ",
+        "Agency":"Klick Health",
+        "Client":"Biogen Idec",
+        "LargeImage": "images/projects/biogen_2.png",
+        "ImageURL": "images/projects/biogen_2_small.png",
+        "SiteURL": "",
+        "Technologies": [
+            {
+                "Name": "MVC4"
+
+            },
+            {
+                "Name": "AngularJS"
+
+            },
+            {
+                "Name": "HTML5"
+
+            },
+            {
+                "Name": "Responsive"
+
+            },
+            {
+                "Name": "CSS3"
+
+            },
+            {
+                "Name": "AJAX"
+
+            },
+            {
+                "Name": "jQuery"
+
+
+            }
+        ]
+    },
+    {
+        "Name": "UR-Channel",
+        "Description": "Involved as a Front End Web Developer and designer to create a rich site.",
+        "Role": "Lead Web Developer/Designer",
+        "Agency":"None",
+        "Client":"UR-Channel",
+        "LargeImage": "images/projects/ur_channel.png",
+        "ImageURL": "images/projects/ur_channel_small.png",
+        "SiteURL": "http://ur-channel.com/",
+        "Technologies": [
+            {
+                "Name": "HTML5"
+
+            },
+            {
+                "Name": ".NET"
+
+            },
+            {
+                "Name": "jQuery"
+
+            },
+            {
+                "Name": "CSS3"
+
+            },
+            {
+                "Name": "Ajax"
+
+            },
+            {
+                "Name": "Flash"
+
+            }
+        ]
+    },
+    {
+        "Name": "Klick - iConnect",
+        "Description": "Involved as a Front End Web Developer to create inovate portal to showcase a new iOS platform/app.",
+        "Role": "Web Developer",
+        "Agency":"Klick Health",
+        "Client":"Klick Health",
+        "LargeImage": "images/projects/iCONNECT.png",
+        "ImageURL": "images/projects/iCONNECT_small.png",
+        "SiteURL": "http://www.klick.com/iConnect/",
+        "Technologies": [
+            {
+                "Name": "HTML5"
+
+            },
+            {
+                "Name": "jQuery"
+
+            },
+            {
+                "Name": "CSS3"
+
+            },
+            {
+                "Name": "Video"
+
+            }
+        ]
+    },
+    {
+        "Name": "RSA Canada Mobile App",
+        "Description": "Involved as a Front End Web Developer to create a cross platform (iOS, BlackBerry, Android) mobile app",
+        "Role": "Web Developer",
+        "Agency":"K2 Digital",
+        "Client":"Royal & Sun Alliance Canada",
+        "LargeImage": "images/projects/rsa_ca.png",
+        "ImageURL": "images/projects/rsa_ca_small.png",
+        "SiteURL": "https://play.google.com/store/apps/details?id=com.app.rsa.mobile.android2&hl=en",
+        "Technologies": [
+            {
+                "Name": "HTML5"
+
+            },
+            {
+                "Name": "jQuery Mobile"
+
+            },
+            {
+                "Name": "CSS3"
+
+            },
+            {
+                "Name": "PhoneGap"
+
+            }
+        ]
+    },
+    {
+        "Name": "Telus - Loopbonding",
+        "Description": "Involved as a Lead Front End Web Developer to create an internal blackberry only application allowing installers to reference a database of devices for troubleshooting purposes.",
+        "Role": "Web Developer",
+        "Agency":"Klick Learning Solutions",
+        "Client":"Telus",
+        "LargeImage": "images/projects/loopbonding.png",
+        "ImageURL": "images/projects/loopbonding_small.png",
+        "SiteURL": "",
+        "Technologies": [
+            {
+                "Name": "HTML5"
+
+            },
+            {
+                "Name": "jQuery Mobile"
+
+            },
+            {
+                "Name": "AngularJS"
+
+            },
+            {
+                "Name": "PhoneGap"
+
+            }
+        ]
+    },
+    {
+        "Name": "Amitiza.com - Desktop",
+        "Description": "Involved as a Front End Web Developer to process content updates and page creation for client.",
+        "Role": "Web Developer",
+        "Agency":"Klick",
+        "Client":"Takeda",
+        "LargeImage": "images/projects/amitiza_desktop.png",
+        "ImageURL": "images/projects/amitiza_desktop_small.png",
+        "SiteURL": "http://www.amitiza.com/",
+        "Technologies": [
+            {
+                "Name": "HTML"
+
+            },
+            {
+                "Name": "Mobile Responsive"
+
+            },
+            {
+                "Name": "jQuery"
+
+            },
+            {
+                "Name": "CSS"
+
+            },
+            {
+                "Name": ".NET"
+
+            }
+        ]
+    },
+    {
+        "Name": "Amitiza.com - Mobile",
+        "Description": "Involved as a Lead Front End Web Developer to create a mobile responsive site.",
+        "Role": "Lead Web Developer",
+        "Agency":"Klick",
+        "Client":"Takeda",
+        "LargeImage": "images/projects/amitiza_mobile.png",
+        "ImageURL": "images/projects/amitiza_mobile_small.png",
+        "SiteURL": "http://www.amitiza.com/",
+        "Technologies": [
+            {
+                "Name": "HTML5"
+
+            },
+            {
+                "Name": "jQuery"
+
+            },
+            {
+                "Name": "CSS3"
+
+            },
+            {
+                "Name": ".NET"
+
+            },
+            {
+                "Name": "Foundation 3"
+
+            }
+        ]
+    },
+    {
+        "Name": "Turn To Help",
+        "Description": "Involved as a Front End Web Developer to create a rich Cleo Award Winning HTML5 website.",
+        "Role": "Web Developer",
+        "Agency":"Klick",
+        "Client":"Reckitt Benckiser",
+        "LargeImage": "images/projects/turn_to_help.png",
+        "ImageURL": "images/projects/turn_to_help_small.png",
+        "SiteURL": "http://turntohelp.com/",
+        "Technologies": [
+            {
+                "Name": "HTML5"
+
+            },
+            {
+                "Name": "jQuery"
+
+            },
+            {
+                "Name": "CSS3"
+
+            },
+            {
+                "Name": ".NET"
+
+            }
+        ]
+    },
+    {
+        "Name": "My Multiple Myeloma",
+        "Description": "Involved as a Front End Web Developer in creation and content update of a HTML5 rich Wordpress site.",
+        "Role": "Web Developer",
+        "Agency":"Klick",
+        "Client":"Millennium Pharmaceuticals Inc.",
+        "LargeImage": "images/projects/mmm.png",
+        "ImageURL": "images/projects/mmm_small.png",
+        "SiteURL": "http://mymultiplemyeloma.com/",
+        "Technologies": [
+            {
+                "Name": "HTML5"
+
+            },
+            {
+                "Name": "jQuery"
+
+            },
+            {
+                "Name": "CSS3"
+
+            },
+            {
+                "Name": "Wordpress"
+
+            }
+        ]
+    },
+    {
+        "Name": "VELCADE",
+        "Description": "Involved as a Front End Web Developer processing content updates and new page creation.",
+        "Role": "Web Developer",
+        "Agency":"Klick",
+        "Client":"Millennium Pharmaceuticals Inc.",
+        "LargeImage": "images/projects/VELCADE.png",
+        "ImageURL": "images/projects/VELCADE_small.png",
+        "SiteURL": "http://www.velcade.com/",
+        "Technologies": [
+            {
+                "Name": "HTML5"
+
+            },
+            {
+                "Name": "jQuery"
+
+            },
+            {
+                "Name": "CSS3"
+
+            },
+            {
+                "Name": "Wordpress"
+
+            }
+        ]
+    },
+    {
+        "Name": "Acorda Synapse",
+        "Description": "Involved in a large team as a Web Developer in the creation of an Nielsen Norman Group award winning corporate intranet.",
+        "Role": "Web Developer",
+        "Agency":"Klick",
+        "Client":"Acorda Therapeutics Inc.",
+        "LargeImage": "images/projects/synapse.png",
+        "ImageURL": "images/projects/synapse_small.png",
+        "SiteURL": "http://www.nngroup.com/reports/intranet-design-annual/",
+        "Technologies": [
+            {
+                "Name": "HTML5"
+
+            },
+            {
+                "Name": "jQuery"
+
+            },
+            {
+                "Name": "CSS3"
+
+            },
+            {
+                "Name": ".NET"
+
+            },
+            {
+                "Name": "AJAX"
+
+            }
+        ]
+    }
+]

@@ -9,9 +9,5 @@
  */
 angular.module('jacobharasimoApp')
   .controller('MyHistoryCtrl', function ($scope) {
-    $scope.awesomeThings = [
-      'HTML5 Boilerplate',
-      'AngularJS',
-      'Karma'
-    ];
+
   });

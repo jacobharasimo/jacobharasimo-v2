@@ -20,7 +20,6 @@
     your browser</a> to improve your experience.</p>
 <![endif]-->
 <header>
-
     <nav class="top-bar" data-topbar top-nav>
         <ul class="title-area">
             <li class="name">
@@ -32,7 +31,7 @@
         <section class="top-bar-section">
             <!-- Right Nav Section -->
             <ul class="right">
-                <li ng-class="{active: topNavigation.activeID==$index}" ng-cloak ng-repeat="nav in topNavigation.Items">
+                <li ng-class="{active: topNav.getActiveNav()==nav.Order}" ng-cloak ng-repeat="nav in topNavigation.Items">
                     <a ng-href="#{{nav.Link}}" ng-click="navigate($index)">{{nav.Title}}</a>
                 </li>
             </ul>
@@ -42,14 +41,11 @@
             </ul>
         </section>
     </nav>
-    <div class="row">
-        <div class="columns small-12">
-
-        </div>
-    </div>
 </header>
 <!-- Add your site or application content here -->
-<div id="contentBody" ng-view="" class="slide-animation"></div>
+<main id="contentBody" ng-view="" class="slide-animation">
+
+</main>
 
 <!-- Google Analytics: change UA-XXXXX-X to be your site's ID -->
 <script>
@@ -101,6 +97,12 @@
 <script src="scripts/controllers/MyLanguages.js"></script>
 <script src="scripts/controllers/Project.js"></script>
 <script src="scripts/directives/topNav.js"></script>
+<script src="scripts/services/topNav.js"></script>
+<script src="scripts/directives/searchBar.js"></script>
+<script src="scripts/directives/projectTile.js"></script>
+<script src="scripts/services/projects.js"></script>
+<script src="scripts/services/clients.js"></script>
+<script src="scripts/services/languages.js"></script>
 <!-- endbuild -->
 </body>
 </html>

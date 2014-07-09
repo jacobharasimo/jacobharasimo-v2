@@ -10,12 +10,17 @@
 angular
     .module('jacobharasimoApp', [
         'ngAnimate',
-        'ngCookies',
         'ngResource',
         'ngRoute',
         'ngSanitize',
         'ngTouch'
     ])
+    .run(function($rootScope,$location,$filter,topNav){
+        $rootScope.$on('$locationChangeStart', function() {
+            topNav.setActiveNav($location.path());
+        });
+
+    })
     .config(function ($routeProvider) {
         $routeProvider
             .when('/', {

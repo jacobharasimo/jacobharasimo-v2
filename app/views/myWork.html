@@ -1,1 +1,22 @@
-<p>This is the myWork view.</p>
+<div class="row">
+    <div class="columns small-12">
+        <h2>My Work</h2>
+        <p>I have been working as a Web Developer exclusively since 2009. During that time I have filled many shoes. I started out
+            as a developer working for a small company where I had to do everything&hellip; I was the creative designer, The sole QA
+            I was also the UI/UX designer&hellip; I did server side and client side code. Since then I have moved to focus more on Front
+            End Development often working as a team lead on multiple projects for many clients. I learned every project is really a complicated
+            jig saw puzzle created with many pieces ranging from the developers to the technologies leveraged to bring the clients ideas to
+            completion. Below is a list of some of the project I have worked on, what my role was, and what technologies were used to
+            create the end product.</p>
+    </div>
+</div>
+<div search-bar="searchTerm"></div>
+<div class="row">
+    <div class="columns small-12">
+        <ul class="small-block-grid-2 large-block-grid-4">
+            <li ng-cloak ng-repeat="project in Projects | filter: {Technologies:searchTerm}">
+               <div project-tile="project"></div>
+            </li>
+        </ul>
+    </div>
+</div>
