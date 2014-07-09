@@ -13,20 +13,21 @@
 <div class="row">
     <div class="columns small-3">
         <div class="panel filter-list">
-            <h3>Filter Projects</h3>
+            <h5>Filter by Technology</h5>
             <hr/>
-            <h5>Technology</h5>
-            <ul class="no-bullet">
-                <li>
-                    <input id="techCheckboxAll" type="radio" name="TechFilter" ng-model="searchTerm" value="" />
-                    <label for="techCheckboxAll">All</label>
-                </li>
-                <li ng-repeat="tech in Technologies | orderBy:'Name'">
-                    <input type="radio" name="TechFilter" id="techCheckbox{{$index}}"
-                           ng-model="$parent.searchTerm" value="{{tech.Name}}" />
-                <label for="techCheckbox{{$index}}">{{tech.Name}}</label>
-                </li>
-            </ul>
+                <ul class="no-bullet">
+                    <li>
+                        <input id="techCheckboxAll" type="radio" name="TechFilter" ng-model="searchTerm" value="" />
+                        <label for="techCheckboxAll">All</label>
+                    </li>
+                    <li ng-repeat="tech in Technologies | orderBy:'Name'">
+                        <input type="radio" name="TechFilter" id="techCheckbox{{$index}}"
+                               ng-model="$parent.searchTerm" value="{{tech.Name}}" />
+                        <label for="techCheckbox{{$index}}">{{tech.Name}}</label>
+                    </li>
+                </ul>
+
+
         </div>
     </div>
     <div class="columns small-9">

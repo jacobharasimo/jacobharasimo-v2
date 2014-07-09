@@ -1,7 +1,7 @@
 [
 	{
         "Name": "IsoAcoustics Calculator",
-        "Description": "Involved as a Lead Front End Web Developer tasked with createing a multi-path step based Calculator for audio professionals to select/create custom vibration isolationg stands based on client provided workflow/spreadsheeets.",
+        "Description": "Involved as a Lead Front End Web Developer tasked with creating a multi-path step based Calculator for audio professionals to select/create custom vibration isolating stands based on client provided workflow/spreadsheeets.",
         "Role": "Lead Web Developer",
         "Agency":"Ecentricarts",
         "Client":"IsoAcoustics",
@@ -9,12 +9,17 @@
         "LargeImage": "images/projects/iso_acoustics.png",
         "SiteURL": "",
         "Technologies": [
-            "Rest/Web API",
+            "Rest API",
+            "Web API",
             "Foundation 5",
             "Responsive",
             "jQuery",
             "SASS",
-            "C#"
+            "C#",
+            "AngularJS",
+            "HTML5",
+            ".NET Webforms",
+            "JavaScript"
         ]
     },
 	{
@@ -30,7 +35,10 @@
             "Wordpress",
             "Foundation 5",
             "SASS",
-            "Responsive"
+            "Responsive",
+            "HTML5",
+            "JavaScript",
+            "jQuery"
         ]
     },
 	{
@@ -43,12 +51,20 @@
         "LargeImage": "images/projects/sico_paints.png",
         "SiteURL": "http://www.sico.ca/en-CA/Home.aspx",
         "Technologies": [
+            "Web API",
             "Kentico CMS",
             "HTML5",
             "CSS3",
             "Foundation 4",
             "Responsive",
-            "Silverlight"
+            "Silverlight",
+            "Google API",
+            "Facebook API",
+            "Pinterest API",
+            "AngularJS",
+            ".NET Webforms",
+            "JavaScript",
+            "jQuery"
         ]
     },
     {
@@ -64,7 +80,8 @@
             "MVC4",
             "HTML",
             "CSS3",
-            "jQuery"
+            "jQuery",
+            "JavaScript"
         ]
     },
     {
@@ -78,6 +95,7 @@
         "SiteURL": "",
         "Technologies": [
             "HTML",
+            "CSS",
             "Silverpop"
         ]
     },
@@ -93,8 +111,8 @@
         "Technologies": [
             "Flash",
             "HTML",
-            "CSS",
-            "jQuery"
+            "CSS3",
+            "JavaScript"
         ]
     },
     {
@@ -110,7 +128,8 @@
             "Drupal",
             "HTML",
             "CSS3",
-            "jQuery"
+            "jQuery",
+            "JavaScript"
         ]
     },
     {
@@ -124,10 +143,12 @@
         "SiteURL": "https://startsomethingwithalesse.ca/en/home/",
         "Technologies": [
             "HTML",
-            "Mobile Compatible",
+            "Responsive",
             "CSS3",
             "jQuery",
-            "Facebook API"
+            "JavaScript",
+            "Facebook API",
+            ".NET Webforms"
         ]
     },
     {
@@ -143,7 +164,8 @@
             "HTML",
             "Wordpress",
             "CSS3",
-            "jQuery"
+            "jQuery",
+            "JavaScript"
         ]
     },
     {
@@ -156,7 +178,7 @@
         "ImageURL": "images/projects/rogers_small.png",
         "SiteURL": "",
         "Technologies": [
-            ".NET",
+            ".NET Webforms",
             "HTML",
             "CSS3",
             "jQuery",
@@ -177,9 +199,11 @@
             "AngularJS",
             "HTML5",
             "Responsive",
+            "Foundation 3",
             "CSS3",
             "AJAX",
-            "jQuery"
+            "jQuery",
+            "Web API"
         ]
     },
     {
@@ -193,8 +217,8 @@
         "SiteURL": "http://ur-channel.com/",
         "Technologies": [
             "HTML5",
-            ".NET",
             "jQuery",
+            "JavaScript",
             "CSS3",
             "Ajax",
             "Flash"
@@ -213,7 +237,8 @@
             "HTML5",
             "jQuery",
             "CSS3",
-            "Video"
+            "Video",
+            "iOS"
         ]
     },
     {
@@ -229,6 +254,7 @@
             "HTML5",
             "jQuery Mobile",
             "CSS3",
+            "AngularJS",
             "PhoneGap"
         ]
     },
@@ -259,10 +285,10 @@
         "SiteURL": "http://www.amitiza.com/",
         "Technologies": [
             "HTML",
-            "Mobile Responsive",
             "jQuery",
-            "CSS",
-            ".NET"
+            "JavaScript",
+            "CSS3",
+            ".NET Webforms"
         ]
     },
     {
@@ -278,8 +304,9 @@
             "HTML5",
             "jQuery",
             "CSS3",
-            ".NET",
-            "Foundation 3"
+            ".NET Webforms",
+            "Foundation 3",
+            "Responsive"
         ]
     },
     {
@@ -294,8 +321,9 @@
         "Technologies": [
             "HTML5",
             "jQuery",
+            "JavaScript",
             "CSS3",
-            ".NET"
+            ".NET Webforms"
         ]
     },
     {
@@ -327,7 +355,8 @@
             "HTML5",
             "jQuery",
             "CSS3",
-            "Wordpress"
+            "Wordpress",
+            ".NET Webforms"
         ]
     },
     {
@@ -343,8 +372,10 @@
             "HTML5",
             "jQuery",
             "CSS3",
-            ".NET",
-            "AJAX"
+            ".NET Webforms",
+            "AJAX",
+            "Video",
+            "JavaScript"
         ]
     }
 ]
